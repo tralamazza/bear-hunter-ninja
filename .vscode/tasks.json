@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "command": "npm",
+  "tasks": [
+    {
+      "taskName": "install",
+      "isBuildCommand": true
+    },
+    {
+      "taskName": "test",
+      "isTestCommand": true
+    }
+  ]
+}
