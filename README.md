@@ -35,3 +35,11 @@ To start a game between a computer and a console player
 	
 	node index Bob
 
+
+### notes
+
+- The title 'Waste an hour having fund' I guess should read 'having fun'.
+- The phrase 'Can I play a different game each time?' doesn't really make sense without first defining what a game is. I wrote my own definition.
+- I chose Javascript (nodejs) because...
+- ... I wanted to spend some time learning about ES6 ;)
+- There are no runtime dependencies, only for testing (as specified).
